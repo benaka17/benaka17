@@ -2,10 +2,10 @@
 
 📔 I am a student in the third year of studying computer science.
 
-✨ I love working with
+✨ I love working with <br>
 Java | Python | JavaScript | HTML5 | CSS3
 
-🌱 I’m currently learning
+🌱 I’m currently learning <br>
 React | Figma
 
 <!--
