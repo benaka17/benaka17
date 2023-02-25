@@ -12,8 +12,7 @@
 
 
 🌱 I’m currently learning... <br><br>
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
 
 <!--
 **benaka17/benaka17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
