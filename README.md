@@ -12,8 +12,8 @@
 
 
 🌱 I’m currently learning... <br><br>
-
-
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 <!--
 **benaka17/benaka17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
