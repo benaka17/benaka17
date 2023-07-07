@@ -1,7 +1,7 @@
 ### Hi there 👋
 📔 My name is Alexander. I am in my third year of Computer Science.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benaka17&layout=compact)
 
 ✨ I love working with... <br><br>
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
