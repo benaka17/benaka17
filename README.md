@@ -1,5 +1,5 @@
 ### Hi there 👋
-📔 My name is Alexander. I'm a computer scientist studying economics.
+📔 My name is Alexander. I'm a computer scientist studying economics. <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benaka17&layout=compact)
 
 ✨ I love working with... <br><br>
